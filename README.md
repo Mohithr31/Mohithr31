@@ -1,4 +1,4 @@
-HI this is "Mohith R"
+👋 Hello this is "Mohith R"
 
 # 💫 About Me:
 🚀 "I’m pivoting into the tech industry to become a Cybersecurity Specialist, <br>where I’m learning to defend systems against evolving digital threats."
@@ -11,9 +11,7 @@ HI this is "Mohith R"
 ![](https://streak-stats.demolab.com/?user=Mohithr31&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohithr31&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohithr31&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Mohithr31&icon=5&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
