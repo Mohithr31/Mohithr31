@@ -112,21 +112,27 @@ During my backend developer internship at Emstrap, I worked on API integration, 
 </table>
 
 ---
+---
 
-## GitHub Analytics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohithr31&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithr31&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img src="./assets/github-ecg-activity.svg" width="100%" alt="Engineering activity monitor"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithr31&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Mohithr31&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohithr31&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mohithr31&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohithr31&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<br/><br/>
+
+**Build consistently. Learn continuously. Improve every day.**
 
 </div>
 
